@@ -2,7 +2,6 @@
 categories = ["let me got ", "start", "go "]
 date = 2021-10-20T16:00:00Z
 description = "made in china "
-draft = true
 image = "/images/img_1718.JPG"
 tags = ["made ", "google"]
 title = "made in RPC"

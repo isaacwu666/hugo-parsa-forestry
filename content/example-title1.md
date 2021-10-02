@@ -2,7 +2,6 @@
 categories = ["S "]
 date = 2021-10-18T16:00:00Z
 description = "是"
-draft = true
 image = "/images/img_1718.JPG"
 tags = ["S"]
 title = "example title1"
